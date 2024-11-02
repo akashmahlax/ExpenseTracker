@@ -1,0 +1,14 @@
+[
+    {
+        "amount": 500.0,
+        "category": "food",
+        "description": "this was actually rent i have rented from sahil",
+        "date": "2024-11-02 22:49:31"
+    },
+    {
+        "amount": 1000.0,
+        "category": "rent",
+        "description": "this is i ahve give to arsh and mummy g",
+        "date": "2024-11-02 22:55:15"
+    }
+]
